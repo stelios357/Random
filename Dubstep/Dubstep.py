@@ -1,0 +1,5 @@
+sss = input()
+sss = sss.replace("WUB", " ")
+sss = sss.lstrip()
+sss = sss.rstrip()
+print(sss)
